@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=2.0.0-rc3-91127a1-x86_64-macos
+cargo:rerun-if-changed=/Users/kirstenrichard/Desktop/substrate-moloch-dao/.git/HEAD
+cargo:rerun-if-changed=/Users/kirstenrichard/Desktop/substrate-moloch-dao/.git/refs/heads/master
+

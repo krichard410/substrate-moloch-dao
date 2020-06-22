@@ -1,0 +1,10 @@
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/crossbeam_queue-4fe107922050a636.rmeta: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/array_queue.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/err.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/seg_queue.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/libcrossbeam_queue-4fe107922050a636.rlib: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/array_queue.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/err.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/seg_queue.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/crossbeam_queue-4fe107922050a636.d: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/array_queue.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/err.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/seg_queue.rs
+
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/lib.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/array_queue.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/err.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.2/src/seg_queue.rs:

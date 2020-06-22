@@ -1,0 +1,11 @@
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/syn_mid-e79884ba367b3e9e.rmeta: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/macros.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/arg.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/pat.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/path.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/libsyn_mid-e79884ba367b3e9e.rlib: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/macros.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/arg.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/pat.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/path.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/syn_mid-e79884ba367b3e9e.d: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/macros.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/arg.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/pat.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/path.rs
+
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/lib.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/macros.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/arg.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/pat.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/syn-mid-0.5.0/src/path.rs:
