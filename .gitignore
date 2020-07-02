@@ -9,3 +9,4 @@ runtime/wasm/target/
 polkadot.*
 .DS_Store
 .cargo
+.local
