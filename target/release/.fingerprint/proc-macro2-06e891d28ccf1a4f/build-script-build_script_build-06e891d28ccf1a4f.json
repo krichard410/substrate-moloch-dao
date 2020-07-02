@@ -1,0 +1,1 @@
+{"rustc":11433004480181278316,"features":"[\"default\", \"proc-macro\"]","target":10429514197457385088,"profile":2574335274271406459,"path":13314682883444106031,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/proc-macro2-06e891d28ccf1a4f/dep-build-script-build_script_build-06e891d28ccf1a4f"}}],"rustflags":[],"metadata":14399165043509735265}

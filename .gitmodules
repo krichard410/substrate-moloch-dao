@@ -1,0 +1,3 @@
+[submodule "substrate-front-end-template"]
+	path = substrate-front-end-template
+	url = ./substrate-front-end-template

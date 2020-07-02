@@ -1,0 +1,1 @@
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/wbuild-runner/node-template-runtime9626994530545983703/target/x86_64-apple-darwin/release/wasm-build-runner-impl: /Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/wbuild-runner/node-template-runtime9626994530545983703/src/main.rs

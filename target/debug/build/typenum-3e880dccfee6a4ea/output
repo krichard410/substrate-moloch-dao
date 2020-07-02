@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/debug/build/typenum-3e880dccfee6a4ea/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/debug/build/typenum-3e880dccfee6a4ea/out/op.rs

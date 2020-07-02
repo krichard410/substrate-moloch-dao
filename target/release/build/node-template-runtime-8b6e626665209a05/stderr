@@ -1,0 +1,25 @@
+   Compiling wasm-build-runner-impl v1.0.0 (/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/wbuild-runner/node-template-runtime9626994530545983703)
+    Finished release [optimized] target(s) in 1.57s
+     Running `/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/wbuild-runner/node-template-runtime9626994530545983703/target/x86_64-apple-darwin/release/wasm-build-runner-impl`
+[0m[0m[1m[32m   Compiling[0m pallet-template v2.0.0-rc3 (/Users/kirstenrichard/Desktop/substrate-moloch-dao/pallets/template)
+[0m[1m[33mwarning[0m[0m[1m: unused variable: `new_proposal`[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/Users/kirstenrichard/Desktop/substrate-moloch-dao/pallets/template/src/lib.rs:138:8[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m138[0m[0m [0m[0m[1m[38;5;12m| [0m[0m            let new_proposal = Proposal {[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[33m^^^^^^^^^^^^[0m[0m [0m[0m[1m[33mhelp: if this is intentional, prefix it with an underscore: `_new_proposal`[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m    [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_variables)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `ProposalIndex`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/Users/kirstenrichard/Desktop/substrate-moloch-dao/pallets/template/src/lib.rs:23:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m23[0m[0m [0m[0m[1m[38;5;12m| [0m[0mtype ProposalIndex = u32;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(dead_code)]` on by default[0m
+
+[0m[0m[1m[32m   Compiling[0m node-template-runtime v2.0.0-rc3 (/Users/kirstenrichard/Desktop/substrate-moloch-dao/runtime)
+[0m[1m[33mwarning[0m[0m[1m: 2 warnings emitted[0m
+
+[0m[0m[1m[32m   Compiling[0m node-template-runtime-wasm v1.0.0 (/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/wbuild/node-template-runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 12.62s
