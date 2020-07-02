@@ -217,6 +217,10 @@ decl_module! {
 
 		#[weight = 10_000]
 		fn vote(origin, hash: Hash, approve: bool) {
+			let sender = ensure_signed(origin)?;
+
+			
+
 		}
 
 		#[weight = 10_000]
