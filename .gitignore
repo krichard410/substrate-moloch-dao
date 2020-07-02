@@ -6,7 +6,7 @@
 runtime/wasm/target/
 **/._*
 .idea
-.vscode
+.vscode 
 polkadot.*
 .DS_Store
 .cargo
